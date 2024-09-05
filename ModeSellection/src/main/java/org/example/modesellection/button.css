@@ -1,0 +1,5 @@
+.button
+{
+    -fx-font-size: 16px;
+    -fx-background-image: url("imgs/button.jpg");
+}
